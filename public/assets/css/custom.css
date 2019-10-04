@@ -1,0 +1,122 @@
+.bt-black {
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+.leader {
+    color: yellow;
+}
+
+.manager {
+    color: rgb(255, 0, 0);
+}
+
+.fz-15 {
+    font-size: 15px;
+}
+
+.fz-16 {
+    font-size: 16px;
+}
+
+.fz-17 {
+    font-size: 17px;
+}
+
+.fz-18 {
+    font-size: 18px;
+}
+
+.fz-19 {
+    font-size: 19px;
+}
+
+.fz-20 {
+    font-size: 20px;
+}
+
+.font-cs {
+    font: bold 12px/30px serif;
+}
+
+.text-bold {
+    font: bold 18px serif;
+}
+
+.georgia {
+    font: Georgia;
+}
+
+.sanserif {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.text-yellow {
+    color: yellow;
+}
+
+.bg-black {
+    background-color: black;
+}
+
+.trans-90 {
+    transform: rotate(90deg);
+    width: 300px;
+    height: 300px;
+}
+
+.input-form {
+    width: 100%;
+    /* padding: 12px 20px; */
+    margin: 5px 0;
+    box-sizing: border-box;
+    border: none;
+    border-bottom: 2px solid black;
+}
+
+.selectbox-form {
+    width: 100%;
+    /* padding: 12px 20px; */
+    margin: 5px 0;
+    box-sizing: border-box;
+    border: none;
+    border-bottom: 2px solid black;
+}
+
+.input-pob {
+    max-width: 100%;
+    /* padding: 12px 20px; */
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: none;
+    border-bottom: 2px solid black;
+    display: inline;
+
+}
+
+.input-dob {
+    max-width: 100%;
+    /* padding: 12px 20px; */
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: none;
+    border-bottom: 2px solid black;
+    display: inline;
+
+}
+
+textarea {
+    max-height: 100px;
+}
+
+.inline {
+    display: inline;
+}
+
+.ml-6 {
+    margin-left: 110px;
+}
+
+.pasfoto {
+    max-width: 70%;
+    max-height: 50%
+}
