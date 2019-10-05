@@ -342,7 +342,7 @@
   <footer>
         <div class="row">
             <div class="col text-center bg-black text-yellow mt-3 sanserif">
-                    Copyright &copy;  <span class=" position-absolute mr-3" style="font-size: xx-small; position: relative;">2019 </span> <span class="ml-5"> Yellow Group</span>
+                    Copyright &copy;  <sup>2019 </sup> <span class="ml-2"> Yellow Group</span>
 
             </div>
         </div>
